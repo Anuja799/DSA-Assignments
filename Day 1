@@ -1,0 +1,12 @@
+#Question 1 Solution
+
+X = int(input('enter base:'))
+Y = int(input('enter power:'))
+result = X ** Y 
+print('The result is:',result)
+
+#Question 2 Solution
+
+li = [3,9,12,4,13,62,50,27]
+result = list(filter(lambda x:(x%3==0),li))
+print('The numbers which are divisible by 3:',result)
