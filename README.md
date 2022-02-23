@@ -1,2 +1,2 @@
-# DSA-Assignments
+# DSA-Project
 DSA related problems
